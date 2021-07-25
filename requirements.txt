@@ -1,9 +1,0 @@
-tensorflow==2.4
-tensorflow_hub
-bert
-pandas
-numpy
-pyyaml
-scikit-learn>=0.22.2.post1
-tqdm
-bert-for-tf2
